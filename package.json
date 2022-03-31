@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jcadavez/telnet-js-connector/issues"
   },
-  "homepage": "https://github.com/jcadavez/telnet-js-connector#readme"
+  "homepage": "https://github.com/jcadavez/telnet-js-connector#readme",
+  "dependencies": {
+    "telnet-client": "^2.0.2"
+  }
 }
