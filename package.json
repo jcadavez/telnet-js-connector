@@ -1,0 +1,19 @@
+{
+  "name": "telnet-js-connector",
+  "version": "1.0.0",
+  "description": "Telnet JS tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcadavez/telnet-js-connector.git"
+  },
+  "author": "Joshua Cadavez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcadavez/telnet-js-connector/issues"
+  },
+  "homepage": "https://github.com/jcadavez/telnet-js-connector#readme"
+}
